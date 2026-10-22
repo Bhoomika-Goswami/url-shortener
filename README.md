@@ -55,7 +55,7 @@ url-shortener/
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/<your-username>/url-shortener.git
+git clone https://github.com/Bhoomika-Goswami/url-shortener.git
 cd url-shortener
 npm install
 ```
@@ -74,9 +74,6 @@ Copy the template and fill in your own values:
 ```bash
 # Windows (PowerShell / CMD)
 copy .env.example .env
-
-# macOS / Linux
-cp .env.example .env
 ```
 
 | Variable | Description | Example |
@@ -211,7 +208,7 @@ Collection: `urls`
 
 ## Author
 
-**<Bhoomika Goswami>** — <Bhoomika-Goswami> # Git Username
+**Bhoomika Goswami** — Bhoomika-Goswami # Git Username
 
 ## License
 
