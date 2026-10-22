@@ -1,4 +1,4 @@
-# short introduction of url-shortener
+# Short Introduction of Url-Shortener
 A full-stack URL shortener with click tracking, built with Node.js, Express and MongoDB Atlas.
 
 # URL Shortener
